@@ -110,6 +110,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 onPressed: (){},
                 child: const Text('Bottom')
             ),
+            const Image(
+                image: AssetImage("images/avatar.jpg"),
+              width: 300.0
+            ),
           ],
         ),
       ),

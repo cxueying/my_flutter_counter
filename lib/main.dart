@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               '这里可以显示更多的文本',
             ),
-            //添加一卦按钮
+            //添加一个按钮
             ElevatedButton(
                 onPressed: (){},
                 child: const Text('Bottom')
